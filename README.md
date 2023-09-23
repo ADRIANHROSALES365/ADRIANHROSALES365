@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adrian Humberto Rosales Padilla
 - TECHNOLOGIES OF INFORMATION AND COMUNICATION ENGENNIERING - Instituto Tecnologico de Aguascalientes
 - Aguascalientes ,Mexico.    
-- 👀 I’m interested in WEB DEVELOPMENT , CODING , AUTOMATIZATION.   
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in WEB DEVELOPMENT , CODING , AUTOMATION.   
+- 🌱 I’m currently learning and focusing on web development
 - 📫 How to reach me... https://www.linkedin.com/in/adrian-humberto-rosales-padilla-664426227/
 
 <!---
