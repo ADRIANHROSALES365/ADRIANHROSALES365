@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian Humberto Rosales Padilla
-- IT ENGENNIERING - Instituto Tecnologico de Aguascalientes
+- IT ENGINEERING- Instituto Tecnologico de Aguascalientes
 - Aguascalientes ,Mexico.    
 - 👀 I’m interested in WEB DEVELOPMENT , CODING , AUTOMATION.   
 - 🌱 I’m currently learning and focusing on web development
